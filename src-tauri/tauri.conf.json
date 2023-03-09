@@ -52,7 +52,7 @@
         "frameworks": [],
         "providerShortName": null,
         "signingIdentity": null,
-        "minimumSystemVersion": null
+        "minimumSystemVersion": "10.9"
       },
       "resources": [],
       "shortDescription": "",
@@ -62,7 +62,7 @@
         "digestAlgorithm": "sha256",
         "timestampUrl": "",
         "webviewInstallMode": {
-          "type": "embedBootstrapper"
+          "type": "offlineInstaller"
         }
       }
     },
